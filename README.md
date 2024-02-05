@@ -1,38 +1,23 @@
-# Welcome to Remix!
+# GuitarLA E-commerce
 
-- [Remix Docs](https://remix.run/docs)
+## Descripción
+GuitarLA E-commerce es un proyecto de código abierto que ofrece una plataforma para la venta de guitarras, cursos de guitarra y otros productos relacionados. Los usuarios pueden explorar, ver detalles de los productos, agregar artículos al carrito de compras y realizar compras. Además, el proyecto incluye una sección de blogs que abordan diversos temas sobre guitarras y aprender a tocar.
 
-## Development
+## Tecnologías
+- Remix (v2)
+- PostgreSQL en la base de datos
+- Strapi para la gestión de contenido
 
-From your terminal:
+## Uso
+- Explora una amplia variedad de guitarras y cursos de guitarra.
+- Ver detalles de los productos, incluyendo imágenes, descripciones y precios.
+- Agrega productos al carrito de compras y gestiona el carrito.
+- Realiza compras seguras y fáciles de productos.
 
-```sh
-npm run dev
-```
+## Sección de Blogs
+- Accede a una sección de blogs con información y consejos sobre guitarras y aprender a tocar.
+- Explora diferentes temas relacionados con guitarras, técnicas de guitarra, mantenimiento de guitarras, etc.
+. 
 
-This starts your app in development mode, rebuilding assets on file changes.
-
-## Deployment
-
-First, build your app for production:
-
-```sh
-npm run build
-```
-
-Then run the app in production mode:
-
-```sh
-npm start
-```
-
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `remix build`
-
-- `build/`
-- `public/build/`
+## Contribución
+Este proyecto está basado en el curso de Juan Pablo de la Torre, con mejoras realizadas y en la última versión de Remix.
